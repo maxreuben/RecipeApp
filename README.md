@@ -2,7 +2,7 @@
 Recipe book for iOS
 * Create recipes, add ingredients, and step-by-step
 cooking instructions.
-* PhotosUI integration
+* PhotosUI integration to add photos
 * SwiftData insert, update, delete, and sorting
 * 1-To-Many Relationships with delete rules
 
